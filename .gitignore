@@ -1,0 +1,10 @@
+# Signing key and its password: never commit these.
+*.keystore
+*.jks
+keystore-password.txt
+
+# Build output
+build/
+*.apk
+*.idsig
+res/drawable/banner.png
